@@ -11,21 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
+* B.Eng. (2011-2015)   Jilin University, Jilin, China
+* Ph.D. (2017-2022)    Beihang University, Beijing, China. (Successive postgraduate and doctoral program, postgraduate study from 2015 to 2017)
+* 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* 2022 - now: Postdoctoral Fellow
+  * The Hong Kong Polytechnic University (PolyU)
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Prof. A.Ping Zhang and Prof. Wei Jin
 
-* Fall 2015: Research Assistant
-  * Github University
+* 2017-2021: Research Assistant
+  * PolyU
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: Prof. Wei Jin
   
 Skills
 ======
