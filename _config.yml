@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Oliver's CV"
+title                    : "Zhao's website"
 title_separator          : "-"
 name                     : &name "Pengcheng ZHAO"
-description              : &description "personal description"
+description              : &description "Devoted to analyte detection based on optical sensing technology, mainly to develop novel highly sensitive spectroscopic gas sensor and carry out corresponding experimental researches, as well as to explore the potential practical applications."
 url                      : https://pc-zhao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "pc-zhao/pc-zhao.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Pengcheng Zhao"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Postdoc Fellow at The Hong Kong Polytechnic University"
   location         : "Hong Kong"
   employer         : "The Hong Kong Polytechnic University"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
