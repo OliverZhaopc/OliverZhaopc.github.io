@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhao's website"
+title                    : "Zhao's space"
 title_separator          : "-"
 name                     : &name "Pengcheng ZHAO"
 description              : &description "Devoted to analyte detection based on optical sensing technology, mainly to develop novel highly sensitive spectroscopic gas sensor and carry out corresponding experimental researches, as well as to explore the potential practical applications."
@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "Postdoc Fellow at The Hong Kong Polytechnic University"
   location         : "Hong Kong"
-  employer         : "The Hong Kong Polytechnic University"
+  employer         : #"The Hong Kong Polytechnic University"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.hk/citations?user=tUOE-8IAAAAJ&hl=zh-CN"
   email            :
