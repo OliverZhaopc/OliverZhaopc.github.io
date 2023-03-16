@@ -9,7 +9,7 @@ redirect_from:
 ---
 ======
 About me
----
+-
 ======
 Zhao Pengcheng currently is a postdoctoral researcher at Hong Kong Polytechnic University. In 2015, He graduated from Jilin University (JLU) with a bachelor's degree. In 2022, he graduated from Beihang University(BUAA) with a Ph.D. From 2017 to 2021, he conducted joint PhD Programme in the Department of Electrical Engineering of Hong Kong Polytechnic University (co-supervisor: Prof.r Jin Wei). 
 
