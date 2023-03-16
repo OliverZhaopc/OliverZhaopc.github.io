@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D.         (2017-2022)    Beihang University, Beijing, China. (Successive postgraduate and doctoral program)
-* Postgraduate  (2015-2017)    Beihang University, Beijing, China.
-* B.Eng.        (2011-2015)    Jilin University, Jilin, China
+* 2017-2022 Ph.D.  Beihang University, Beijing, China. (Successive postgraduate and doctoral program)
+* 2015-2017 PG.    Beihang University, Beijing, China.
+* 2011-2015 B.Eng. Jilin University, Jilin, China
  
 Work experience
 ======
