@@ -11,15 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.Eng. (2011-2015)    Jilin University, Jilin, China
-* Ph.D.  (2017-2022)    Beihang University, Beijing, China. (Successive postgraduate and doctoral program)
-*         2015-2017     postgraduate study, Beihang University
-* 
+* Ph.D.         (2017-2022)    Beihang University, Beijing, China. (Successive postgraduate and doctoral program)
+* Postgraduate  (2015-2017)    Beihang University, Beijing, China.
+* B.Eng.        (2011-2015)    Jilin University, Jilin, China
+ 
 Work experience
 ======
-* 2022 - now: Postdoctoral Fellow
+* 2022-now: Postdoctoral Fellow
   * The Hong Kong Polytechnic University
-  * Supervisor: Prof. A.Ping Zhang and Prof. Wei Jin
+  * Co-supervisor: Prof. A. Ping Zhang and Prof. Wei Jin
 
 * 2017-2021: Research Assistant
   * The Hong Kong Polytechnic University
