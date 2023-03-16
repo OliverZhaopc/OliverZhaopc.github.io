@@ -83,9 +83,9 @@ author:
   name             : "Pengcheng Zhao"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  location         : "Hong Kong"
+  employer         : "The Hong Kong Polytechnic University"
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.hk/citations?user=tUOE-8IAAAAJ&hl=zh-CN"
   email            :
   researchgate     :  "https://www.researchgate.net/profile/Pengcheng-Zhao"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+ # github           : " "
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/Oliver_Zhaopc"
+  twitter          : "Oliver_Zhaopc"
   vine             :
   weibo            :
   xing             :
