@@ -11,19 +11,18 @@ redirect_from:
 
 Education
 ======
-* B.Eng. (2011-2015)   Jilin University, Jilin, China
-* Ph.D. (2017-2022)    Beihang University, Beijing, China. (Successive postgraduate and doctoral program, postgraduate study from 2015 to 2017)
+* B.Eng. (2011-2015)    Jilin University, Jilin, China
+* Ph.D.  (2017-2022)    Beihang University, Beijing, China. (Successive postgraduate and doctoral program)
+*         2015-2017     postgraduate study, Beihang University
 * 
 Work experience
 ======
 * 2022 - now: Postdoctoral Fellow
-  * The Hong Kong Polytechnic University (PolyU)
-  * Duties included: Tagging issues
+  * The Hong Kong Polytechnic University
   * Supervisor: Prof. A.Ping Zhang and Prof. Wei Jin
 
 * 2017-2021: Research Assistant
-  * PolyU
-  * Duties included: Merging pull requests
+  * The Hong Kong Polytechnic University
   * Supervisor: Prof. Wei Jin
   
 Skills
